@@ -142,3 +142,14 @@ CB,A.J. Bouye\BouyA.00,AFC,JAX,26,4,16,16,0,0,0,0,0,0,0,0,0,0,0,53,0.0,6,AP: 2nd
 CB,Patrick Peterson\PetePa00,NFC,ARI,27,6,16,16,0,0,0,0,0,0,0,0,0,0,0,30,0.0,1,
 CB,Aqib Talib\TaliAq99,AFC,DEN,31,9,15,15,0,0,0,0,0,0,0,0,0,0,0,23,0.0,1,
 CB,Marshon Lattimore\LattMa01,NFC,NOR,21,Rook,13,13,0,0,0,0,0,0,0,0,0,0,0,43,0.0,5,
+DB/RCB,Tramon Williams\WillTr99,NFC,GNB,27,3,16,16,0,0,0,0,0,0,0,0,0,0,0,50,1.0,6,
+DB,Richard Sherman%\SherRi00,,SEA,26,3,16,16,0,0,0,0,0,0,0,0,0,0,0,52,0.0,4,AP: 1st Tm FW: 1st Tm PFF: 2nd Tm SN: 1st Tm
+DB,Chris Harris\HarrCh01,Irvin,DEN,25,3,16,16,0,0,0,0,0,0,0,0,0,0,0,54,1.0,3,AP: 2nd Tm PFF: 1st Tm
+DB,Justin Bethel\BethJu00,Carter,ARI,24,2,16,0,0,0,0,0,0,0,0,0,0,0,0,22,0.0,0,PFF: 1st Tm
+DB,Tashaun Gipson%\GipsTa00,,CLE,24,2,11,11,0,0,0,0,0,0,0,0,0,0,0,28,0.0,6,
+DB,Tyrann Mathieu%\MathTy00,Rice,ARI,23,2,14,14,0,0,0,0,0,0,0,0,0,0,0,80,1.0,5,AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm
+DB,Patrick Peterson%\PetePa00,Rice,ARI,25,4,16,16,0,0,0,0,0,0,0,0,0,0,0,33,0.0,2,AP: 1st Tm FW: 1st Tm PFF: 1st Tm SN: 1st Tm
+DB,Josh Norman%\NormJo01,Rice,CAR,28,3,16,16,0,0,0,0,0,0,0,0,0,0,0,48,0.0,4,AP: 1st Tm FW: 1st Tm SN: 1st Tm PFF: 2nd Tm
+DB,Chris Harris%\HarrCh01,Rice,DEN,26,4,16,16,0,0,0,0,0,0,0,0,0,0,0,49,0.0,2,AP: 2nd Tm PFF: 2nd Tm
+DB,Malcolm Butler%\ButlMa01,Rice,NWE,25,1,16,16,0,0,0,0,0,0,0,0,0,0,0,56,0.0,2,
+DB,T.J. Ward%\WardT.99,,DEN,29,5,12,12,0,0,0,0,0,0,0,0,0,0,0,50,2.0,0,
